@@ -17,7 +17,6 @@
   "shortName": "ashchain",
   "chainId": 50366,
   "networkId": 50366,
-  "icon": "ashchain",
   "explorers": [
     {
       "name": "ASHCHAIN Explorer",
