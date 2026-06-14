@@ -1,13 +1,8 @@
 {
   "name": "ASHCHAIN Mainnet",
   "chain": "ASHCHAIN",
-  "rpc": [
-    "https://evm-rpc.ashchain.io",
-    "https://evm-rpc2.ashchain.io"
-  ],
-  "faucets": [
-    "https://faucet.ashchain.io"
-  ],
+  "rpc": ["https://evm-rpc.ashchain.io", "https://evm-rpc2.ashchain.io"],
+  "faucets": ["https://faucet.ashchain.io"],
   "nativeCurrency": {
     "name": "ASH",
     "symbol": "ASH",
